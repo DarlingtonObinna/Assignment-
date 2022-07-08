@@ -19,7 +19,6 @@ const assignment = {};
     sum+= arrayOfNumbers[i] 
  } 
     return sum;
-    return arrayOfNumbers.length;
   }
  assignment.sumOfNumbers = sumOfNumbers;
 

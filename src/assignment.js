@@ -31,10 +31,17 @@ const assignment = {};
  * @param {Array} arrayOfNumbers the array containing even or non-even numbers
  * @returns number the count of even numbers
  */
+
+  let number= [] 
 function countEvenNumbers(arrayOfNumbers) {
-    return arrayOfNumbers.length;
-}
-// assignment.countEvenNumbers = countEvenNumbers;
+for(let i= 0; i < arrayOfNumbers.length; i++){
+  if(arrayOfNumbers[I] % 2 == 0) {
+   number.push(arrayOfNumbers[i];
+     } 
+   } 
+    return numbers.length;
+ }
+ assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3

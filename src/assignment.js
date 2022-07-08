@@ -35,7 +35,7 @@ const assignment = {};
   let number= [] 
 function countEvenNumbers(arrayOfNumbers) {
 for(let i= 0; i < arrayOfNumbers.length; i++){
-  if(arrayOfNumbers[I] % 2 == 0) {
+  if(arrayOfNumbers[i] % 2 == 0) {
    number.push(arrayOfNumbers[i]);
      };
    };
